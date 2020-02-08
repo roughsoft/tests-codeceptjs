@@ -1,0 +1,24 @@
+{
+  "name": "tests-codeceptjs",
+  "version": "1.0.0",
+  "description": "A repo for testing new stuff with CodeceptJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raschmitt/tests-codeceptjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raschmitt/tests-codeceptjs/issues"
+  },
+  "homepage": "https://github.com/raschmitt/tests-codeceptjs#readme",
+  "devDependencies": {
+    "codeceptjs": "^2.4.3",
+    "puppeteer": "^2.1.1"
+  }
+}
